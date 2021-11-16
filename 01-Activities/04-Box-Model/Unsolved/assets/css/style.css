@@ -1,0 +1,19 @@
+/* Section Config */
+section {
+  width: 600px;
+  height: 600px;
+  text-align: center;
+  border: 15px solid black;
+}
+/* Img Config */
+img {
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+  /* Margin */
+  margin: 1em;
+  /* Padding */
+  padding: 1em;
+  /* Border */
+  border: 1rem solid darkblue;
+}
